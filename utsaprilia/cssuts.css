@@ -405,7 +405,7 @@ html, body{
 .about .about_main .image img{
     width: 230px;
     position: static;
-    margin-top: -98px;
+    margin-top: -90px;
 }
 
 @media (max-width: 768px) {
