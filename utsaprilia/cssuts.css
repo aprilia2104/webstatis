@@ -403,9 +403,9 @@ html, body{
 
 
 .about .about_main .image img{
-    width: 235px;
+    width: 190px;
     position: static;
-    margin-top: -95px;
+    margin-top: -75px;
 }
 
 @media (max-width: 768px) {
